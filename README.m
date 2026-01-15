@@ -8,12 +8,12 @@ I’m a computer engineering student at AISSMS College of Engineering, Pune, foc
 🎓 Education: B.E. in Computer Engineering, AISSMS COE Pune (2023–present)  
 🏫 Higher Secondary: The Lexicon International School, Wagholi (cbse, 2020–2023)  
 🌟 Soft Skills: friendly, collaborative, good listener, reliable, helpful  
-🌐 Languages: english, marathi, hindi  
+🌐 Languages: Fnglish, Marathi, Hindi  
 
 ---
 
   🛠️ Technical Skills
-programming: python, c++, java, javascript, kotlin  
+programming: python, c++, java, javascript, React  
 backend: django, spring boot  
 frontend: html, css  
 databases: mysql, sqlite  
