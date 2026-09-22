@@ -5,7 +5,6 @@
 <p align="center">
   Building scalable web applications and exploring AI/ML.
 </p>
-
 ---
 
 - 🔭 I’m currently working on **[The Alchemist](https://github.com/Sahil-Singh-05/MIT-The-Alchemists)**
